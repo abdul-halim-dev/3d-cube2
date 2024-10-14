@@ -8,7 +8,7 @@ const About = () => {
     <>
     <div className="cont">
     <div className='header'>
-      <h1> I have learned these skill </h1>
+      <h1> I have learned these technologies. </h1>
      </div>
 
       <div className='stage-cube-cont'>
